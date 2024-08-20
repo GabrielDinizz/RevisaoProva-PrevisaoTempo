@@ -1,0 +1,33 @@
+{
+    "weather_data": [
+      {
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "temperature": 25,
+        "condition": "Partly Cloudy",
+        "icon": "🌤"
+      },
+      {
+        "city": "New York",
+        "country": "USA",
+        "temperature": 22,
+        "condition": "Sunny",
+        "icon": "☀️"
+      },
+      {
+        "city": "Tokyo",
+        "country": "Japan",
+        "temperature": 28,
+        "condition": "Rainy",
+        "icon": "🌧"
+      },
+      {
+        "city": "Sydney",
+        "country": "Australia",
+        "temperature": 18,
+        "condition": "Cloudy",
+        "icon": "☁️"
+      }
+    ]
+  }
+  
